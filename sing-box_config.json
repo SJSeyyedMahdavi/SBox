@@ -29,11 +29,11 @@
             ],
             "tls": {
                 "enabled": true,
-            "server_name": "www.speedtest.net",
+            "server_name": "104.18.203.4",
                 "reality": {
                     "enabled": true,
                     "handshake": {
-                    "server": "www.speedtest.net",
+                    "server": "104.18.203.4",
                     "server_port": 443
                     },
                "private_key": "yMWIPT9R1wcUSysS4CKkAZHEv6f3ga982lCAICWkeFo",
